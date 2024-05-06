@@ -1,0 +1,112 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "CepInvalidoException",
+            "request": "launch",
+            "mainClass": "CepInvalidoException",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "FormatadorCep",
+            "request": "launch",
+            "mainClass": "FormatadorCep",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "HierarquiaDeExececoes",
+            "request": "launch",
+            "mainClass": "HierarquiaDeExececoes",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "LaçoDoWhile",
+            "request": "launch",
+            "mainClass": "LaçoDoWhile",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "LaçoFor",
+            "request": "launch",
+            "mainClass": "LaçoFor",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "LaçoWhile",
+            "request": "launch",
+            "mainClass": "LaçoWhile",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "ResultaEscolarTernario",
+            "request": "launch",
+            "mainClass": "ResultaEscolarTernario",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolarCE",
+            "request": "launch",
+            "mainClass": "ResultadoEscolarCE",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "SistemadeMedida",
+            "request": "launch",
+            "mainClass": "SistemadeMedida",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "TratamentoExcecoes",
+            "request": "launch",
+            "mainClass": "TratamentoExcecoes",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraDeMedias",
+            "request": "launch",
+            "mainClass": "debbugingJava.CalculadoraDeMedias",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "Debbuging",
+            "request": "launch",
+            "mainClass": "debbugingJava.Debbuging",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        }
+    ]
+}
