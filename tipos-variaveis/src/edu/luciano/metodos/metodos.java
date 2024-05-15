@@ -38,10 +38,11 @@ public class metodos {
             //um objeto cliente e passar como parametro ?
             // veja abaixo
         }
+    
         // um pouco de Orientaçao a objetos
         public void gravarCliente(Cliente cliente){}
 
         public void gravar (Cliente cliente){}
-
+    
 
 }

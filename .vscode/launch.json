@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InterfaceUsuario",
+            "request": "launch",
+            "mainClass": "equipamentos.dispositivodousuario.InterfaceUsuario",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "sistemademensagens.App",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "Autodromo",
+            "request": "launch",
+            "mainClass": "veiculo.Autodromo",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "Estabelecimento",
+            "request": "launch",
+            "mainClass": "lanchonete.estabelecimento.Estabelecimento",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
