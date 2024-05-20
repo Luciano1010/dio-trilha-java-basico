@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CarrinhoDeCompras",
+            "request": "launch",
+            "mainClass": "list.OperacoesBasicas.CarrinhoDeCompras",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "ListaTarefa",
+            "request": "launch",
+            "mainClass": "list.OperacoesBasicas.ListaTarefa",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "GenericMap",
+            "request": "launch",
+            "mainClass": "GenericMap",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "GenericSet",
+            "request": "launch",
+            "mainClass": "GenericSet",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "ListaCollection",
+            "request": "launch",
+            "mainClass": "ListaCollection",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
             "name": "InterfaceUsuario",
             "request": "launch",
             "mainClass": "equipamentos.dispositivodousuario.InterfaceUsuario",
