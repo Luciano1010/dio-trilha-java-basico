@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SomaNumeros",
+            "request": "launch",
+            "mainClass": "list.Pesquisa.SomaNumeros",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "OrdenacaoPessoa",
+            "request": "launch",
+            "mainClass": "list.Ordenacao.OrdenacaoPessoa",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "CatalagoLivro",
+            "request": "launch",
+            "mainClass": "list.Pesquisa.CatalagoLivro",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
             "name": "CarrinhoDeCompras",
             "request": "launch",
             "mainClass": "list.OperacoesBasicas.CarrinhoDeCompras",
