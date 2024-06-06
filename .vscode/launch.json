@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalcularMedias",
+            "request": "launch",
+            "mainClass": "CalcularMedias",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "RemoverValoresImpares",
+            "request": "launch",
+            "mainClass": "RemoverValoresImpares",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "NumerosPositivos",
+            "request": "launch",
+            "mainClass": "NumerosPositivos",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "SomaNumerosPares",
+            "request": "launch",
+            "mainClass": "somanumerospares.SomaNumerosPares",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "OrdenacaoNumerica",
+            "request": "launch",
+            "mainClass": "OrdenacaoNumerica",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "ExemploBinaryOperator",
+            "request": "launch",
+            "mainClass": "ExemploBinaryOperator",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "ExemploPredicate",
+            "request": "launch",
+            "mainClass": "ExemploPredicate",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "FunctionExemplo",
+            "request": "launch",
+            "mainClass": "FunctionExemplo",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "supplier",
+            "request": "launch",
+            "mainClass": "supplier",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
+            "name": "consumerExemplo",
+            "request": "launch",
+            "mainClass": "consumerExemplo",
+            "projectName": "dio-trilha-java-basico_e60b214d"
+        },
+        {
+            "type": "java",
             "name": "AgendaEventos",
             "request": "launch",
             "mainClass": "map.Ordenacao.AgendaEventos",

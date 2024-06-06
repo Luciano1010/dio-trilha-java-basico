@@ -8,8 +8,8 @@ public class GenericList {
         // sem generics
         List listaSemGenerics = new ArrayList();
 
-        listaSemGenerics.add("Ana");
-        listaSemGenerics.add(10);
+        // listaSemGenerics.add("Ana");
+        // listaSemGenerics.add(10);
 
         // com generics
 
@@ -22,8 +22,8 @@ public class GenericList {
             System.out.println(nome);
         }
         // iterando sobre a lista sem generics eu preciso fazer o cast
-        for(Object elemento : listaSemGenerics){
-             String str = (String) elemento;
+        for (Object elemento : listaSemGenerics) {
+            String str = (String) elemento;
             System.out.println(str);
         }
 

@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "stream.api/stream.api.supllier",
+        "stream.api/stream.api.predicate",
+        "stream.api/stream.api.function",
+        "stream.api/stream.api.consumer",
+        "stream.api/stream.api.binaryoperator",
+        "stream.api/desafios.streamapi/removendovaloresimpares",
+        "stream.api/desafios.streamapi/numerospositivos",
+        "stream.api/deafios.streamapi",
+        "collections/collections.conceitos/src",
+        "stream.api/desafios.streamapi/Desafio 5 - calcular medias"
+    ]
+}
